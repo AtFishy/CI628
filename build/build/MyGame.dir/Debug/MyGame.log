@@ -1,0 +1,10 @@
+﻿  Particle.cpp
+  Main.cpp
+C:\Users\Josh\Desktop\CI628\src\Main.cpp(27,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Josh\Desktop\CI628\src\Main.cpp(36,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Josh\Desktop\CI628\src\Main.cpp(75,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Josh\Desktop\CI628\src\Main.cpp(271,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyGame.cpp
+C:\Users\Josh\Desktop\CI628\src\MyGame.cpp(78,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  MyGame.vcxproj -> C:\Users\Josh\Desktop\CI628\build\Debug\MyGame.exe
